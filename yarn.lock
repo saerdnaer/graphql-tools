@@ -1984,15 +1984,15 @@
   dependencies:
     "@types/node" "*"
 
-"@types/graphql-upload@8.0.3", "@types/graphql-upload@^8.0.0":
-  version "8.0.3"
-  resolved "https://registry.yarnpkg.com/@types/graphql-upload/-/graphql-upload-8.0.3.tgz#b371edb5f305a2a1f7b7843a890a2a7adc55c3ec"
-  integrity sha512-hmLg9pCU/GmxBscg8GCr1vmSoEmbItNNxdD5YH2TJkXm//8atjwuprB+xJBK714JG1dkxbbhp5RHX+Pz1KsCMA==
+"@types/graphql-upload@8.0.6", "@types/graphql-upload@^8.0.0":
+  version "8.0.6"
+  resolved "https://registry.yarnpkg.com/@types/graphql-upload/-/graphql-upload-8.0.6.tgz#6212b69fabb171389ca3c29e0a54b8c0d7b12301"
+  integrity sha512-PNFVwWMy1btDKN51ncAZbD2sTFdqGq416Tk/pUC/U5op97Vg0uw9/4psOPkDn+oEZMJjH0xMMFyJAH2lnoOxSA==
   dependencies:
     "@types/express" "*"
     "@types/fs-capacitor" "*"
     "@types/koa" "*"
-    graphql "^14.5.3"
+    graphql "^15.3.0"
 
 "@types/html-minifier-terser@^5.0.0":
   version "5.1.0"
@@ -6446,7 +6446,7 @@ graphql-upload@^8.0.2:
     http-errors "^1.7.3"
     object-path "^0.11.4"
 
-graphql@15.3.0, graphql@^14.5.3:
+graphql@15.3.0, graphql@^14.5.3, graphql@^15.3.0:
   version "15.3.0"
   resolved "https://registry.yarnpkg.com/graphql/-/graphql-15.3.0.tgz#3ad2b0caab0d110e3be4a5a9b2aa281e362b5278"
   integrity sha512-GTCJtzJmkFLWRfFJuoo9RWWa/FfamUHgiFosxi/X1Ani4AVWbeyBenZTNX6dM+7WSbbFfTo/25eh0LLkwHMw2w==
